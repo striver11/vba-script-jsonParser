@@ -1,3 +1,23 @@
+{
+  "data": {
+    "items": [
+      { "name": "Apple", "id": 1 },
+      { "name": "Banana", "id": 2 }
+    ]
+  }
+}
+
+data.items[0].name	
+data.items[1].id	
+data.items[2].name	
+data.items[0].price
+
+
+
+
+
+
+
 Sub ValidateJsonPathsInline()
 
     Dim jsonStr As String
